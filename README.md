@@ -13,7 +13,7 @@ Created a mobile application which fetch the data with the help of API (TMDB API
     * On successfully rating the movie, rated movies list will be created.
     * On successfully saving the movie, My List will be created.
 
-### Output of teh Screens
+### Output of the Screens
 
 
 
