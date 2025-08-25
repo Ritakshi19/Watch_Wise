@@ -4,14 +4,13 @@ Created a mobile application which fetch the data with the help of API (TMDB API
 
 ### Screens
 - Home Screen: List the movies in various categories. Screen is vertically scrollable and list is horizantally scrollable.
-- Detail Screen: 
-Shows the details of the particular movie such as Name, Description.
-There is read more button enabled in the description part which shows the full description when pressed.
-Movie can be downloaded, rated aur saved to my list.
-- Profile Screen: In this Screen, there are three list available which will be created on the following events:
-                - On successfully downloading the movie, downloaded list will be created.
-                - On successfully rating the movie, rated movies list will be created.
-                - On successfully saving the movie, My List will be created.
+- Detail Screen: Shows the details of the particular movie such as Name, Description.  
+                 There is read more button enabled in the description part which shows the full description when pressed.  
+                 Movie can be downloaded, rated aur saved to my list.
+- Profile Screen: In this Screen, there are three list available which will be created on the following events:  
+                  On successfully downloading the movie, downloaded list will be created.
+                  On successfully rating the movie, rated movies list will be created.  
+                  On successfully saving the movie, My List will be created.
 
 ### Output of teh Screens
 
